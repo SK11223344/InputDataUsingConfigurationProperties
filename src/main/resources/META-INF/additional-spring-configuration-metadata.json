@@ -1,0 +1,232 @@
+{"properties": [
+  {
+    "name": "my.prod.Ty_pe",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.Ty_pe'"
+  },
+  {
+    "name": "my.prod.co-de",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.co-de'"
+  },
+  {
+    "name": "my.prod.ID",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.ID'"
+  },
+  {
+    "name": "my.prod.prjnm[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[1]'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.prod.MOD-E_L",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.MOD-E_L'"
+  },
+  {
+    "name": "my.prod.ID",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.ID'"
+  },
+  {
+    "name": "my.prod.mdata.s1",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.mdata.s1'"
+  },
+  {
+    "name": "my.prod.dpt.did",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.dpt.did'"
+  },
+  {
+    "name": "my.prod.dpt.dname",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.dpt.dname'"
+  },
+  {
+    "name": "my.prod.mdata.s3",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.mdata.s3'"
+  },
+  {
+    "name": "my.prod.mdata.s2",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.mdata.s2'"
+  },
+  {
+    "name": "my.prod.prjnm[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[2]'"
+  },
+  {
+    "name": "my.random.uuid-type",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.uuid-type'"
+  },
+  {
+    "name": "my.random.num-from-to",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.num-from-to'"
+  },
+  {
+    "name": "my.random.num-range",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.num-range'"
+  },
+  {
+    "name": "my.random.bignum",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.bignum'"
+  },
+  {
+    "name": "my.random.num",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.num'"
+  },
+  {
+    "name": "my.random.stringval",
+    "type": "java.lang.String",
+    "description": "A description for 'my.random.stringval'"
+  },
+  {
+    "name": "my.prod.ID",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.ID'"
+  },
+  {
+    "name": "my.prod.ID",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.ID'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  },
+  {
+    "name": "my.prod.MOD-E_L",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.MOD-E_L'"
+  },
+  {
+    "name": "my.prod.prjnm[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'my.prod.prjnm[0]'"
+  }
+]}
